@@ -1,4 +1,4 @@
-# Swapping-two-values
+# SWAPPING-TWO-VALUES 
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
@@ -19,6 +19,7 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
+![Screenshot 2024-03-09 090750](https://github.com/RAGULRAAJAN/Swapping-two-values/assets/147473144/a2f23ef9-5c27-4e7a-a114-8ccbf4bab765)
 
 
 ## RESULT:
